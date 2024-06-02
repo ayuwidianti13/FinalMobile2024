@@ -26,7 +26,7 @@ Fitur Utama
     - SharedPreferences: Untuk penyimpanan data kecil yang persisten, yang memastikan data pengguna seperti preferensi, daftar favorit.
 
 **Authors**
-  @ayuwidianti13
+  https://github.com/ayuwidianti13
 
 **Refrensi**
     https://rapidapi.com/rapihub-rapihub-default/api/imdb-top-100-movies/
